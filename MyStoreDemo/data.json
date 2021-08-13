@@ -1,14 +1,16 @@
 [
   {
     "usuario": {
-      "mail": "mail@prueba.com",
-      "pass": "julianita"
+      "mail": "mail66@prueba.com",
+      "pass": "julianita",
+      "name": "Juli Sala"
     }
   },
   {
     "usuario": {
       "mail": "mail4@prueba.com",
-      "pass": "julianita"
+      "pass": "julianita",
+      "name": "Pedro Ramon"
     }
   }
 ]
